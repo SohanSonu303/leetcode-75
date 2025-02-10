@@ -15,5 +15,6 @@ public class findMin {
                 ans = nums[i];
             }
         }
+        return ans;
     }
 }
